@@ -27,7 +27,7 @@
 ```python
 class Sachin:
 
-    name = "Sachin"
+    name = "Sachin Bamroliya"
 
     code = [
         "Python",
